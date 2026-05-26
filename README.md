@@ -22,3 +22,8 @@ No paid tools are required to begin. GitHub Pages can host the free tool. Gumroa
 
 ## Safety boundary
 This is operational and marketing workflow support only. It is not legal, tax, accounting, employment, privacy, or compliance advice.
+
+
+## AdSense path
+
+This venture is AdSense-ready but ads are not active yet. Brian must complete Google AdSense account approval, payout, tax, identity, and policy steps directly. Once Brian provides the approved Publisher ID and ad-slot ID, replace the inactive placeholders in `index.html`. See `adsense/SETUP_CHECKLIST.md`.
